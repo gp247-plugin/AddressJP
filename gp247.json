@@ -1,11 +1,11 @@
 {
     "name": "Japan Address",
-    "image": "images/logo.jpg",
+    "image": "images/address-jp.svg",
     "auth": "GP247",
     "email": "support@gp247.net",
     "link": "https://gp247.net",
     "configGroup": "Plugins",
-    "configCode": "AddressJP",
+    "configCode": "Other",
     "configKey": "AddressJP",
     "version": "1.0.0",
     "requireCore": ["3.18"],
